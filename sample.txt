@@ -1,2 +1,0 @@
-Hello word!
-I love visual studio code
